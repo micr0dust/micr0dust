@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to micr0dust, or you can call me Microdust</h1>
 <h3 align="center">A passionate developer from Taiwan</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=micr0dust&theme=onedark&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/micr0dust/github-profile-trophy)
 
 - 🌱 I’m currently learning **Backend Development and Algorithm**
 
