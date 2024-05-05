@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=micr0dust&theme=onedark&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/micr0dust/github-profile-trophy)
 
-- 🌱 I’m currently learning **Backend Development and Algorithm**
+- 🌱 I’m currently learning **Machine learning and Algorithm**
 
 - 📝 I regularly write articles on [https://home.gamer.com.tw/profile/index.php?&owner=t0069831](https://home.gamer.com.tw/profile/index.php?&owner=t0069831)
 
